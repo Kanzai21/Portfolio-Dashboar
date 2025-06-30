@@ -13,17 +13,3 @@ Interactive dashboard comparing top and bottom 10 stock strategies over time.
 - Top/bottom 10 stocks by year
 - Individual stock performance
 
-## How to Run Locally
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
-## Screenshots
-
-![Dashboard Screenshot](dashboard.png)
-
----
-
-*This project is built with Python, Dash, Plotly, and yfinance.*
